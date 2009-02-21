@@ -31,4 +31,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/robertkrimen/yui-loader/tree/master
-version: 0.06_1
+version: 0.06_2
